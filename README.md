@@ -72,8 +72,9 @@ com.devspace.taskbeats
 
 ⸻
 
-## 👨‍💻 Author
-
+## Author (under the guidance of Roque buarque)   
 Francisco Cleonis Costa de Souza   
-📍 Bristol, United Kingdom   
-LinkedIn: https://www.linkedin.com/in/cleonis-souza/
+Android Developer (Junior)   
+📍 Bristol, UK  
+🔗 GitHub: https://github.com/cleonissouza   
+🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  
